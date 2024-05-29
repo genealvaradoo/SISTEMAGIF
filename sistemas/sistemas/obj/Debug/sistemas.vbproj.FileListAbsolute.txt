@@ -1,0 +1,15 @@
+E:\aja sistemas\sistemas\sistemas\bin\Debug\sistemas.exe.config
+E:\aja sistemas\sistemas\sistemas\bin\Debug\sistemas.exe
+E:\aja sistemas\sistemas\sistemas\bin\Debug\sistemas.pdb
+E:\aja sistemas\sistemas\sistemas\bin\Debug\sistemas.xml
+E:\aja sistemas\sistemas\sistemas\obj\Debug\sistemas.vbproj.AssemblyReference.cache
+E:\aja sistemas\sistemas\sistemas\obj\Debug\sistemas.Form1.resources
+E:\aja sistemas\sistemas\sistemas\obj\Debug\sistemas.frmBuscar.resources
+E:\aja sistemas\sistemas\sistemas\obj\Debug\sistemas.Resources.resources
+E:\aja sistemas\sistemas\sistemas\obj\Debug\sistemas.vbproj.GenerateResource.cache
+E:\aja sistemas\sistemas\sistemas\obj\Debug\sistemas.vbproj.CoreCompileInputs.cache
+E:\aja sistemas\sistemas\sistemas\obj\Debug\sistemas.exe
+E:\aja sistemas\sistemas\sistemas\obj\Debug\sistemas.xml
+E:\aja sistemas\sistemas\sistemas\obj\Debug\sistemas.pdb
+E:\aja sistemas\sistemas\sistemas\obj\Debug\sistemas.vbproj.SuggestedBindingRedirects.cache
+E:\aja sistemas\sistemas\sistemas\obj\Debug\sistemas.frmGrafica.resources
